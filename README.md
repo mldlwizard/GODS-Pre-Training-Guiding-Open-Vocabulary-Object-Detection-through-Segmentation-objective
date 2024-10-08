@@ -1,5 +1,4 @@
-# YALALA MOHIT - WINDOWS OS
-# Time Travel days - Used 2
+# YALALA MOHIT
 
 # GODS pre-training : Guiding Object detection through segmentation
 
@@ -50,14 +49,18 @@ The training script can be found in trainer.py
 The hyperparameters can be updated at the end of the file.
 Update the Hyper-parameters and paths as per wish and requirement.
 To run training,
+```bash
     !python3 trainer.py
+```
 
 ## Evaluate Model
 The evaluation script can be found in evaluator.py
 The hyperparameters can be updated at the end of the file.
 Update the Hyper-parameters and paths as per wish and requirement.
 To run evaluation,
+```bash
     !python3 evaluator.py
+```
 
 ### Resume Train model
 The training script can be found in trainer.py
